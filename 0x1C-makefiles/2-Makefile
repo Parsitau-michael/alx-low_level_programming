@@ -5,7 +5,7 @@ CC = gcc
 
 # the source files
 
-SRC = $(wildcard *.c)
+SRC = main.c school.c
 
 # the object files
 
